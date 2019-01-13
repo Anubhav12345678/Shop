@@ -7,6 +7,8 @@
 
 <!DOCTYPE html>
 <html>
+<!-- Changed something -->
+
 	
 	<head>
 		<title> Bamba Kirana Store </title>
